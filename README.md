@@ -1,4 +1,6 @@
 # lll-device 📱
+- [Github](https://github.com/lll-studio/llldevice)
+- [npm](https://npmjs.org/package/llldevice)
 
 > An enterprise-grade, zero-dependency device and browser detection utility. Optimized for SSR environments with built-in memoization for maximum performance.
 > 엔터프라이즈급 제로 디펜던시 기기 및 브라우저 환경 판별 유틸리티입니다. 완벽한 SSR 지원과 메모이제이션(캐싱)을 통해 성능을 극대화했습니다.
